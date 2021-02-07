@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.4144a876.chunk.css",
-    "main.js": "/static/js/main.b6ca7d3d.chunk.js",
-    "main.js.map": "/static/js/main.b6ca7d3d.chunk.js.map",
+    "main.css": "/static/css/main.465a3403.chunk.css",
+    "main.js": "/static/js/main.58647ac2.chunk.js",
+    "main.js.map": "/static/js/main.58647ac2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.df2dcf12.js",
     "runtime-main.js.map": "/static/js/runtime-main.df2dcf12.js.map",
-    "static/js/2.ba1f8319.chunk.js": "/static/js/2.ba1f8319.chunk.js",
-    "static/js/2.ba1f8319.chunk.js.map": "/static/js/2.ba1f8319.chunk.js.map",
+    "static/js/2.cb0565b2.chunk.js": "/static/js/2.cb0565b2.chunk.js",
+    "static/js/2.cb0565b2.chunk.js.map": "/static/js/2.cb0565b2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3f24044b91a16bf224ca56564c69ef55.js": "/precache-manifest.3f24044b91a16bf224ca56564c69ef55.js",
+    "precache-manifest.a7ebd584d3af2fda92e21a6f696f4c7c.js": "/precache-manifest.a7ebd584d3af2fda92e21a6f696f4c7c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4144a876.chunk.css.map": "/static/css/main.4144a876.chunk.css.map",
-    "static/js/2.ba1f8319.chunk.js.LICENSE.txt": "/static/js/2.ba1f8319.chunk.js.LICENSE.txt",
+    "static/css/main.465a3403.chunk.css.map": "/static/css/main.465a3403.chunk.css.map",
+    "static/js/2.cb0565b2.chunk.js.LICENSE.txt": "/static/js/2.cb0565b2.chunk.js.LICENSE.txt",
     "static/media/CPanel.png": "/static/media/CPanel.ee5a5e3b.png",
     "static/media/Compra-de-Pizza.jpg": "/static/media/Compra-de-Pizza.d1599cbd.jpg",
     "static/media/LuizCorrea.jpg": "/static/media/LuizCorrea.be6e3f1f.jpg",
     "static/media/Motocross.jpg": "/static/media/Motocross.1ea23bb4.jpg",
     "static/media/Urna-Eletronica.jpg": "/static/media/Urna-Eletronica.07061435.jpg",
     "static/media/Zenit-Polar.jpg": "/static/media/Zenit-Polar.634c2426.jpg",
-    "static/media/accenture-3.svg": "/static/media/accenture-3.21999f09.svg",
     "static/media/background.webp": "/static/media/background.bf989778.webp",
     "static/media/contact-form.styles.css": "/static/media/background.e95d0563.webp",
     "static/media/bootstrap-4.svg": "/static/media/bootstrap-4.ffded238.svg",
@@ -40,6 +39,7 @@
     "static/media/mongodb.png": "/static/media/mongodb.7e7838e1.png",
     "static/media/mssql.svg": "/static/media/mssql.54d7bddc.svg",
     "static/media/nodejs.svg": "/static/media/nodejs.a1231528.svg",
+    "static/media/nuapcode-logo01-B.png": "/static/media/nuapcode-logo01-B.ac89cf50.png",
     "static/media/nuapcode-logo01-W.png": "/static/media/nuapcode-logo01-W.9f3a4e57.png",
     "static/media/olx-loja.jpg": "/static/media/olx-loja.92f370b6.jpg",
     "static/media/postgresql.svg": "/static/media/postgresql.d7c985e7.svg",
@@ -57,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.df2dcf12.js",
-    "static/js/2.ba1f8319.chunk.js",
-    "static/css/main.4144a876.chunk.css",
-    "static/js/main.b6ca7d3d.chunk.js"
+    "static/js/2.cb0565b2.chunk.js",
+    "static/css/main.465a3403.chunk.css",
+    "static/js/main.58647ac2.chunk.js"
   ]
 }
