@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.465a3403.chunk.css",
-    "main.js": "/static/js/main.58647ac2.chunk.js",
-    "main.js.map": "/static/js/main.58647ac2.chunk.js.map",
+    "main.css": "/static/css/main.b21f2523.chunk.css",
+    "main.js": "/static/js/main.29c3fc4b.chunk.js",
+    "main.js.map": "/static/js/main.29c3fc4b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.df2dcf12.js",
     "runtime-main.js.map": "/static/js/runtime-main.df2dcf12.js.map",
-    "static/js/2.cb0565b2.chunk.js": "/static/js/2.cb0565b2.chunk.js",
-    "static/js/2.cb0565b2.chunk.js.map": "/static/js/2.cb0565b2.chunk.js.map",
+    "static/js/2.a5298f60.chunk.js": "/static/js/2.a5298f60.chunk.js",
+    "static/js/2.a5298f60.chunk.js.map": "/static/js/2.a5298f60.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a7ebd584d3af2fda92e21a6f696f4c7c.js": "/precache-manifest.a7ebd584d3af2fda92e21a6f696f4c7c.js",
+    "precache-manifest.815b95c14f1201842b3cd7cd3c32e931.js": "/precache-manifest.815b95c14f1201842b3cd7cd3c32e931.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.465a3403.chunk.css.map": "/static/css/main.465a3403.chunk.css.map",
-    "static/js/2.cb0565b2.chunk.js.LICENSE.txt": "/static/js/2.cb0565b2.chunk.js.LICENSE.txt",
+    "static/css/main.b21f2523.chunk.css.map": "/static/css/main.b21f2523.chunk.css.map",
+    "static/js/2.a5298f60.chunk.js.LICENSE.txt": "/static/js/2.a5298f60.chunk.js.LICENSE.txt",
     "static/media/CPanel.png": "/static/media/CPanel.ee5a5e3b.png",
     "static/media/Compra-de-Pizza.jpg": "/static/media/Compra-de-Pizza.d1599cbd.jpg",
     "static/media/LuizCorrea.jpg": "/static/media/LuizCorrea.be6e3f1f.jpg",
@@ -39,12 +39,12 @@
     "static/media/mongodb.png": "/static/media/mongodb.7e7838e1.png",
     "static/media/mssql.svg": "/static/media/mssql.54d7bddc.svg",
     "static/media/nodejs.svg": "/static/media/nodejs.a1231528.svg",
-    "static/media/nuapcode-logo01-B.png": "/static/media/nuapcode-logo01-B.ac89cf50.png",
     "static/media/nuapcode-logo01-W.png": "/static/media/nuapcode-logo01-W.9f3a4e57.png",
     "static/media/olx-loja.jpg": "/static/media/olx-loja.92f370b6.jpg",
     "static/media/postgresql.svg": "/static/media/postgresql.d7c985e7.svg",
     "static/media/python.svg": "/static/media/python.146716bd.svg",
     "static/media/react-bootstrap.svg": "/static/media/react-bootstrap.83fe61b0.svg",
+    "static/media/react-native.jpg": "/static/media/react-native.dd579b64.jpg",
     "static/media/react-router.svg": "/static/media/react-router.02419671.svg",
     "static/media/react.svg": "/static/media/react.4009eef3.svg",
     "static/media/redux.svg": "/static/media/redux.aa0a3376.svg",
@@ -57,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.df2dcf12.js",
-    "static/js/2.cb0565b2.chunk.js",
-    "static/css/main.465a3403.chunk.css",
-    "static/js/main.58647ac2.chunk.js"
+    "static/js/2.a5298f60.chunk.js",
+    "static/css/main.b21f2523.chunk.css",
+    "static/js/main.29c3fc4b.chunk.js"
   ]
 }
