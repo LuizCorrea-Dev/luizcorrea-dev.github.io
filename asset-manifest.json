@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b21f2523.chunk.css",
-    "main.js": "/static/js/main.29c3fc4b.chunk.js",
-    "main.js.map": "/static/js/main.29c3fc4b.chunk.js.map",
+    "main.css": "/static/css/main.5d2d7f3c.chunk.css",
+    "main.js": "/static/js/main.598e7f85.chunk.js",
+    "main.js.map": "/static/js/main.598e7f85.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.df2dcf12.js",
     "runtime-main.js.map": "/static/js/runtime-main.df2dcf12.js.map",
-    "static/js/2.a5298f60.chunk.js": "/static/js/2.a5298f60.chunk.js",
-    "static/js/2.a5298f60.chunk.js.map": "/static/js/2.a5298f60.chunk.js.map",
+    "static/js/2.dc9bc725.chunk.js": "/static/js/2.dc9bc725.chunk.js",
+    "static/js/2.dc9bc725.chunk.js.map": "/static/js/2.dc9bc725.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.815b95c14f1201842b3cd7cd3c32e931.js": "/precache-manifest.815b95c14f1201842b3cd7cd3c32e931.js",
+    "precache-manifest.c1a94719de86098ba1bb69ebf0a2cd3b.js": "/precache-manifest.c1a94719de86098ba1bb69ebf0a2cd3b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b21f2523.chunk.css.map": "/static/css/main.b21f2523.chunk.css.map",
-    "static/js/2.a5298f60.chunk.js.LICENSE.txt": "/static/js/2.a5298f60.chunk.js.LICENSE.txt",
+    "static/css/main.5d2d7f3c.chunk.css.map": "/static/css/main.5d2d7f3c.chunk.css.map",
+    "static/js/2.dc9bc725.chunk.js.LICENSE.txt": "/static/js/2.dc9bc725.chunk.js.LICENSE.txt",
     "static/media/CPanel.png": "/static/media/CPanel.ee5a5e3b.png",
     "static/media/Compra-de-Pizza.jpg": "/static/media/Compra-de-Pizza.d1599cbd.jpg",
     "static/media/LuizCorrea.jpg": "/static/media/LuizCorrea.be6e3f1f.jpg",
     "static/media/Motocross.jpg": "/static/media/Motocross.1ea23bb4.jpg",
+    "static/media/Proffy.jpg": "/static/media/Proffy.e6f6817e.jpg",
     "static/media/Urna-Eletronica.jpg": "/static/media/Urna-Eletronica.07061435.jpg",
     "static/media/Zenit-Polar.jpg": "/static/media/Zenit-Polar.634c2426.jpg",
     "static/media/background.webp": "/static/media/background.bf989778.webp",
@@ -25,6 +26,7 @@
     "static/media/css3.svg": "/static/media/css3.3707da3c.svg",
     "static/media/digital-ocean.svg": "/static/media/digital-ocean.add23917.svg",
     "static/media/django.svg": "/static/media/django.bcf22073.svg",
+    "static/media/expo.svg": "/static/media/expo.314551ba.svg",
     "static/media/express.svg": "/static/media/express.c6bab64b.svg",
     "static/media/flask.svg": "/static/media/flask.d98463ab.svg",
     "static/media/git-icon.svg": "/static/media/git-icon.1190a19c.svg",
@@ -57,8 +59,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.df2dcf12.js",
-    "static/js/2.a5298f60.chunk.js",
-    "static/css/main.b21f2523.chunk.css",
-    "static/js/main.29c3fc4b.chunk.js"
+    "static/js/2.dc9bc725.chunk.js",
+    "static/css/main.5d2d7f3c.chunk.css",
+    "static/js/main.598e7f85.chunk.js"
   ]
 }
