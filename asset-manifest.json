@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.847cd0d7.chunk.js",
-    "main.js.map": "./static/js/main.847cd0d7.chunk.js.map",
+    "main.js": "./static/js/main.dbe297bd.chunk.js",
+    "main.js.map": "./static/js/main.dbe297bd.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b67d067c.js",
     "runtime-main.js.map": "./static/js/runtime-main.b67d067c.js.map",
     "static/js/2.544d90a6.chunk.js": "./static/js/2.544d90a6.chunk.js",
@@ -17,6 +17,8 @@
     "static/media/SantanderBootcamp.0932f3ad.jpg": "./static/media/SantanderBootcamp.0932f3ad.jpg",
     "static/media/SantanderDevWeek.efd308d7.png": "./static/media/SantanderDevWeek.efd308d7.png",
     "static/media/Todo-List.196d6a18.png": "./static/media/Todo-List.196d6a18.png",
+    "static/media/carrefour.4b7c2368.png": "./static/media/carrefour.4b7c2368.png",
+    "static/media/coinConverter.a76344b3.png": "./static/media/coinConverter.a76344b3.png",
     "static/media/everisKDesafio.db2cc59d.png": "./static/media/everisKDesafio.db2cc59d.png",
     "static/media/interDesafios.9b2097fd.jpg": "./static/media/interDesafios.9b2097fd.jpg",
     "static/media/portfolio.ad38f7a8.png": "./static/media/portfolio.ad38f7a8.png",
@@ -25,6 +27,6 @@
   "entrypoints": [
     "static/js/runtime-main.b67d067c.js",
     "static/js/2.544d90a6.chunk.js",
-    "static/js/main.847cd0d7.chunk.js"
+    "static/js/main.dbe297bd.chunk.js"
   ]
 }
