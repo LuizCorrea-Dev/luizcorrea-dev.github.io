@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.c81a5526.chunk.js",
-    "main.js.map": "./static/js/main.c81a5526.chunk.js.map",
+    "main.js": "./static/js/main.c941442e.chunk.js",
+    "main.js.map": "./static/js/main.c941442e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b67d067c.js",
     "runtime-main.js.map": "./static/js/runtime-main.b67d067c.js.map",
     "static/js/2.544d90a6.chunk.js": "./static/js/2.544d90a6.chunk.js",
@@ -18,6 +18,7 @@
     "static/media/SantanderDevWeek.efd308d7.png": "./static/media/SantanderDevWeek.efd308d7.png",
     "static/media/Todo-List.196d6a18.png": "./static/media/Todo-List.196d6a18.png",
     "static/media/carrefour.4b7c2368.png": "./static/media/carrefour.4b7c2368.png",
+    "static/media/carrefourKotlin.2cfc5d9e.jpg": "./static/media/carrefourKotlin.2cfc5d9e.jpg",
     "static/media/coinConverter.a76344b3.png": "./static/media/coinConverter.a76344b3.png",
     "static/media/everisKDesafio.db2cc59d.png": "./static/media/everisKDesafio.db2cc59d.png",
     "static/media/interDesafios.9b2097fd.jpg": "./static/media/interDesafios.9b2097fd.jpg",
@@ -27,6 +28,6 @@
   "entrypoints": [
     "static/js/runtime-main.b67d067c.js",
     "static/js/2.544d90a6.chunk.js",
-    "static/js/main.c81a5526.chunk.js"
+    "static/js/main.c941442e.chunk.js"
   ]
 }
